@@ -1,0 +1,109 @@
+編號,站名,lat,long,code,Eng,Eng2,code_2,eng_2,TOWNID,TOWNENG,townid_2,COUNTYNAME,TOWNNAME,towneng_2,COUNTYID,area_code
+"1",忠孝復興站,25.04163,121.54377,BL15,Zhongxiao Fuxing,"0",BL15,Zhongxiao Fuxing,A02,Daan District,,,,,,BL15
+"2",南港展覽館站,25.05539,121.61827,BL23,Taipei Nangang Exhibition Center,"0",,,,,A13,臺北市,南港區,Nangang District,A,Nangang District
+"3",松山機場站,25.06302,121.55177,BR13,Songshan Airport,"0",BR13,Songshan Airport,A01,Songshan District,,,,,,BR13
+"4",中山國中站,25.06085,121.54423,BR12,Zhongshan Junior High School,"0",BR12,Zhongshan Junior High School,A10,Zhongshan District,,,,,,BR12
+"5",南京復興站,25.05210,121.54435,G16,Nanjing Fuxing,"0",G16,Nanjing Fuxing,A01,Songshan District,,,,,,G16
+"6",大安站,25.03323,121.54391,R05,Daan,"0",R05,Daan,A02,Daan District,,,,,,R05
+"7",科技大樓站,25.02612,121.54344,BR08,Technology Building,"0",BR08,Technology Building,A02,Daan District,,,,,,BR08
+"8",六張犁站,25.02370,121.55162,BR07,Liuzhangli,"0",BR07,Liuzhangli,A02,Daan District,,,,,,BR07
+"9",麟光站,25.01546,121.56106,BR06,Linguang,"0",BR06,Linguang,A02,Daan District,,,,,,BR06
+"10",辛亥站,25.00548,121.55711,BR05,Xinhai,"0",,,,,A11,臺北市,文山區,Wenshan District,A,Wenshan District
+"11",萬芳醫院站,24.99939,121.55820,BR04,Wanfang Hospital,"0",,,,,A11,臺北市,文山區,Wenshan District,A,Wenshan District
+"12",萬芳社區站,24.99861,121.56807,BR03,Wanfang Community,"0",,,,,A11,臺北市,文山區,Wenshan District,A,Wenshan District
+"13",木柵站,24.99824,121.57314,BR02,Muzha,"0",,,,,A11,臺北市,文山區,Wenshan District,A,Wenshan District
+"14",動物園站,24.99826,121.57943,BR01,Taipei Zoo,"0",,,,,A11,臺北市,文山區,Wenshan District,A,Wenshan District
+"15",大直站,25.07948,121.54689,BR14,Dazhi,Shih Chien University,BR14,Dazhi,A10,Zhongshan District,,,,,,BR14
+"16",劍南路站,25.08485,121.55559,BR15,Jiannan Road,Miramar,BR15,Jiannan Road,A10,Zhongshan District,,,,,,BR15
+"17",西湖站,25.08213,121.56721,BR16,Xihu,Takming University,,,,,A14,臺北市,內湖區,Neihu District,A,Neihu District
+"18",港墘站,25.08004,121.57510,BR17,Gangqian,"0",,,,,A14,臺北市,內湖區,Neihu District,A,Neihu District
+"19",文德站,25.07855,121.58552,BR18,Wende,Bihu Park,,,,,A14,臺北市,內湖區,Neihu District,A,Neihu District
+"20",內湖站,25.08350,121.59421,BR19,Neihu,"0",,,,,A14,臺北市,內湖區,Neihu District,A,Neihu District
+"21",大湖公園站,25.08301,121.60526,BR20,Dahu Park,"0",,,,,A14,臺北市,內湖區,Neihu District,A,Neihu District
+"22",葫洲站,25.07272,121.60716,BR21,Huzhou,"0",,,,,A14,臺北市,內湖區,Neihu District,A,Neihu District
+"23",東湖站,25.06713,121.61172,BR22,Donghu,"0",,,,,A14,臺北市,內湖區,Neihu District,A,Neihu District
+"24",南港軟體園區站,25.05994,121.61593,BR23,Nangang Software Park,"0",,,,,A13,臺北市,南港區,Nangang District,A,Nangang District
+"25",小碧潭站,24.97201,121.53049,G03A,Xiaobitan,Xindian Senior High School,,,,,F07,新北市,新店區,Xindian District,F,Xindian District
+"26",新店站,24.95894,121.53858,G01,Xindian,Bitan,,,,,F07,新北市,新店區,Xindian District,F,Xindian District
+"27",新店市公所站,24.96739,121.54100,G02,Xindian District Office,"0",,,,,F07,新北市,新店區,Xindian District,F,Xindian District
+"28",七張站,24.97498,121.54310,G03,Qizhang,"0",,,,,F07,新北市,新店區,Xindian District,F,Xindian District
+"29",大坪林站,24.98279,121.54103,G04,Dapinglin,"0",,,,,F07,新北市,新店區,Xindian District,F,Xindian District
+"30",景美站,24.99352,121.54082,G05,Jingmei,"0",,,,,A11,臺北市,文山區,Wenshan District,A,Wenshan District
+"31",萬隆站,24.99928,121.54024,G06,Wanlong,"0",,,,,A11,臺北市,文山區,Wenshan District,A,Wenshan District
+"32",公館站,25.01194,121.53782,G07,Gongguan,National Taiwan University,G07,Gongguan,A02,Daan District,,,,,,G07
+"33",臺電大樓站,25.01756,121.53139,G08,Taipower Building,"0",G08,Taipower Building,A03,Zhongzheng District,,,,,,G08
+"34",古亭站,25.02613,121.52292,O05,Guting,"0",O05,Guting,A03,Zhongzheng District,,,,,,O05
+"35",中正紀念堂站,25.03273,121.51827,G10,Chiang Kai-Shek Memorial Hall,Nanmen,G10,Chiang Kai-Shek Memorial Hall,A03,Zhongzheng District,,,,,,G10
+"37",永安市場站,25.00237,121.51095,O03,Yongan Market,"0",,,,,F18,新北市,中和區,Zhonghe District,F,Zhonghe District
+"38",景安站,24.99371,121.50462,O02,Jingan,"0",,,,,F18,新北市,中和區,Zhonghe District,F,Zhonghe District
+"39",南勢角站,24.98992,121.50885,O01,Nanshijiao,"0",,,,,F18,新北市,中和區,Zhonghe District,F,Zhonghe District
+"40",小南門站,25.03553,121.51088,G11,Xiaonanmen,"0",G11,Xiaonanmen,A03,Zhongzheng District,,,,,,G11
+"41",臺大醫院站,25.04216,121.51628,R09,NTU Hospital,"0",R09,NTU Hospital,A03,Zhongzheng District,,,,,,R09
+"42",臺北車站,25.04626,121.51748,BL12,Taipei Main Station,"0",BL12,Taipei Main Station,A03,Zhongzheng District,,,,,,BL12
+"43",中山站,25.05290,121.52034,G14,Zhongshan,"0",G14,Zhongshan,A10,Zhongshan District,,,,,,G14
+"44",雙連站,25.05790,121.52060,R12,Shuanglian,Mackay Memorial Hospital,R12,Shuanglian,A09,Datong District,,,,,,R12
+"45",民權西路站,25.06288,121.51935,O11,Minquan West Road,"0",O11,Minquan West Road,A10,Zhongshan District,,,,,,O11
+"46",圓山站,25.07135,121.52012,R14,Yuanshan,"0",R14,Yuanshan,A10,Zhongshan District,,,,,,R14
+"47",劍潭站,25.08487,121.52508,R15,Jiantan,"0",,,,,A15,臺北市,士林區,Shilin District,A,Shilin District
+"48",士林站,25.09353,121.52623,R16,Shilin,"0",,,,,A15,臺北市,士林區,Shilin District,A,Shilin District
+"49",芝山站,25.10306,121.52251,R17,Zhishan,"0",,,,,A15,臺北市,士林區,Shilin District,A,Shilin District
+"50",明德站,25.10972,121.51885,R18,Mingde,"0",,,,,A16,臺北市,北投區,Beitou District,A,Beitou District
+"51",石牌站,25.11452,121.51556,R19,Shipai,Veterans General Hospital,,,,,A16,臺北市,北投區,Beitou District,A,Beitou District
+"52",唭哩岸站,25.12087,121.50625,R20,Qilian,"0",,,,,A16,臺北市,北投區,Beitou District,A,Beitou District
+"53",奇岩站,25.12611,121.50101,R21,Qiyan,"0",,,,,A16,臺北市,北投區,Beitou District,A,Beitou District
+"54",北投站,25.13131,121.49918,R22,Beitou,"0",,,,,A16,臺北市,北投區,Beitou District,A,Beitou District
+"55",新北投站,25.13694,121.50265,R22A,Xinbeitou,"0",,,,,A16,臺北市,北投區,Beitou District,A,Beitou District
+"56",復興崗站,25.13820,121.49185,R23,Fuxinggang,"0",,,,,A16,臺北市,北投區,Beitou District,A,Beitou District
+"57",忠義站,25.13106,121.47323,R24,Zhongyi,"0",,,,,A16,臺北市,北投區,Beitou District,A,Beitou District
+"58",關渡站,25.12492,121.46551,R25,Guandu,"0",,,,,A16,臺北市,北投區,Beitou District,A,Beitou District
+"59",竹圍站,25.13656,121.46009,R26,Zhuwei,"0",,,,,F27,新北市,淡水區,Danshui District,F,Danshui District
+"60",紅樹林站,25.15404,121.45887,R27,Hongshulin,"0",,,,,F27,新北市,淡水區,Danshui District,F,Danshui District
+"61",淡水站,25.16782,121.44556,R28,Tamsui,"0",,,,,F27,新北市,淡水區,Danshui District,F,Danshui District
+"62",頂埔站,24.95944,121.41887,BL01,Dingpu,"0",,,,,F19,新北市,土城區,Tucheng District,F,Tucheng District
+"63",永寧站,24.96680,121.43632,BL02,Yongning,"0",,,,,F19,新北市,土城區,Tucheng District,F,Tucheng District
+"64",土城站,24.97322,121.44416,BL03,Tucheng,"0",,,,,F19,新北市,土城區,Tucheng District,F,Tucheng District
+"65",海山站,24.98543,121.44861,BL04,Haishan,"0",,,,,F19,新北市,土城區,Tucheng District,F,Tucheng District
+"66",亞東醫院站,24.99804,121.45251,BL05,Far Eastern Hospital,"0",,,,,F14,新北市,板橋區,Banqiao District,F,Banqiao District
+"67",府中站,25.00840,121.45895,BL06,Fuzhong,The Lin Family Mansion and Garden,,,,,F14,新北市,板橋區,Banqiao District,F,Banqiao District
+"68",板橋站,25.01460,121.46253,BL07,Banqiao,"0",,,,,F14,新北市,板橋區,Banqiao District,F,Banqiao District
+"69",新埔站,25.02418,121.46823,BL08,Xinpu,"0",,,,,F14,新北市,板橋區,Banqiao District,F,Banqiao District
+"70",江子翠站,25.03013,121.47236,BL09,Jiangzicui,"0",,,,,F14,新北市,板橋區,Banqiao District,F,Banqiao District
+"71",龍山寺站,25.03528,121.49983,BL10,Longshan Temple,Bangka Commercial Zone,BL10,Longshan Temple,A05,Wanhua District,,,,,,BL10
+"72",西門站,25.04212,121.50766,BL11,Ximen,"0",BL11,Ximen,A05,Wanhua District,,,,,,BL11
+"73",善導寺站,25.04411,121.52423,BL13,Shandao Temple,Huashan,BL13,Shandao Temple,A03,Zhongzheng District,,,,,,BL13
+"74",忠孝新生站,25.04244,121.53325,BL14,Zhongxiao Xinsheng,National Taipei University of Technology,BL14,Zhongxiao Xinsheng,A02,Daan District,,,,,,BL14
+"75",忠孝敦化站,25.04162,121.55165,BL16,Zhongxiao Dunhua,"0",BL16,Zhongxiao Dunhua,A02,Daan District,,,,,,BL16
+"76",國父紀念館站,25.04137,121.55747,BL17,Sun Yat-Sen Memorial Hall,"0",BL17,Sun Yat-Sen Memorial Hall,A02,Daan District,,,,,,BL17
+"77",市政府站,25.04115,121.56596,BL18,Taipei City Hall,"0",BL18,Taipei City Hall,A17,Xinyi District,,,,,,BL18
+"78",永春站,25.04071,121.57658,BL19,Yongchun,"0",BL19,Yongchun,A17,Xinyi District,,,,,,BL19
+"79",後山埤站,25.04505,121.58252,BL20,Houshanpi,Wufenpu Commercial Zone,,,,,A13,臺北市,南港區,Nangang District,A,Nangang District
+"80",昆陽站,25.05016,121.59342,BL21,Kunyang,"0",,,,,A13,臺北市,南港區,Nangang District,A,Nangang District
+"81",南港站,25.05206,121.60657,BL22,Nangang,"0",,,,,A13,臺北市,南港區,Nangang District,A,Nangang District
+"82",大橋頭站,25.06326,121.51272,O12,Daqiaotou,Daqiao Elementary School,O12,Daqiaotou,A09,Datong District,,,,,,O12
+"83",中山國小站,25.06269,121.52642,O10,Zhongshan Elementary School,Qingguang Commercial Zone,O10,Zhongshan Elementary School,A10,Zhongshan District,,,,,,O10
+"84",行天宮站,25.05972,121.53318,O09,Xingtian Temple,"0",O09,Xingtian Temple,A10,Zhongshan District,,,,,,O09
+"85",松江南京站,25.05123,121.53274,O08,Songjiang Nanjing,"0",O08,Songjiang Nanjing,A10,Zhongshan District,,,,,,O08
+"86",東門站,25.03405,121.52893,O06,Dongmen,"0",O06,Dongmen,A03,Zhongzheng District,,,,,,O06
+"87",蘆洲站,25.09155,121.46447,O54,Luzhou,Luzhou Lee Family Historic Estate,,,,,F04,新北市,蘆洲區,Luzhou District,F,Luzhou District
+"88",三民高中站,25.08546,121.47339,O53,Sanmin Senior High School,National Open University,,,,,F04,新北市,蘆洲區,Luzhou District,F,Luzhou District
+"89",徐匯中學站,25.07955,121.48126,O52,Saint Ignatius High School,"0",,,,,F05,新北市,三重區,Sanzhong District,F,Sanzhong District
+"90",三和國中站,25.07542,121.48869,O51,Sanhe Junior High School,"0",,,,,F05,新北市,三重區,Sanzhong District,F,Sanzhong District
+"91",三重國小站,25.06945,121.49829,O50,Sanchong Elementary School,"0",,,,,F05,新北市,三重區,Sanzhong District,F,Sanzhong District
+"92",輔大站,25.03282,121.43611,O19,Fu Jen University,"0",,,,,F01,新北市,新莊區,Xinzhuang District,F,Xinzhuang District
+"93",新莊站,25.03612,121.45247,O18,Xinzhuang,Xinzhuang Temple Street,,,,,F01,新北市,新莊區,Xinzhuang District,F,Xinzhuang District
+"94",頭前庄站,25.03971,121.46175,O17,Touqianzhuang,Taipei Hospital,,,,,F01,新北市,新莊區,Xinzhuang District,F,Xinzhuang District
+"95",先嗇宮,25.04649,121.47192,O16,Xianse Temple,"0",,,,,F05,新北市,三重區,Sanzhong District,F,Sanzhong District
+"96",三重站,25.05579,121.48472,O15,Sanchong,"0",,,,,F05,新北市,三重區,Sanzhong District,F,Sanzhong District
+"97",菜寮站,25.06027,121.49216,O14,Cailiao,New Taipei City Hospital,,,,,F05,新北市,三重區,Sanzhong District,F,Sanzhong District
+"98",臺北橋站,25.06306,121.49992,O13,Taipei Bridge,"0",,,,,F05,新北市,三重區,Sanzhong District,F,Sanzhong District
+"99",迴龍站,25.02254,121.41273,O21,Huilong/Lo-sheng,"0",,,,,F01,新北市,新莊區,Xinzhuang District,F,Xinzhuang District
+"100",丹鳳站,25.02905,121.42242,O20,Danfeng,"0",,,,,F01,新北市,新莊區,Xinzhuang District,F,Xinzhuang District
+"101",象山站,25.03294,121.56884,R02,Xiangshan,"0",R02,Xiangshan,A17,Xinyi District,,,,,,R02
+"102",台北101/世貿中心站,25.03306,121.56319,R03,Taipei 101/World Trade Center,"0",R03,Taipei 101/World Trade Center,A17,Xinyi District,,,,,,R03
+"103",信義安和站,25.03312,121.55280,R04,Xinyi Anhe,"0",R04,Xinyi Anhe,A02,Daan District,,,,,,R04
+"104",大安森林公園站,25.03348,121.53535,R06,Daan Park,"0",R06,Daan Park,A02,Daan District,,,,,,R06
+"105",北門站,25.04903,121.50999,G13,Beimen,Dadaocheng South,G13,Beimen,A09,Datong District,,,,,,G13
+"106",台北小巨蛋站,25.05145,121.55079,G17,Taipei Arena,"0",G17,Taipei Arena,A01,Songshan District,,,,,,G17
+"107",南京三民站,25.05146,121.56045,G18,Nanjing Sanmin,"0",G18,Nanjing Sanmin,A01,Songshan District,,,,,,G18
+"108",松山站,25.04988,121.57753,G19,Songshan,"0",G19,Songshan,A01,Songshan District,,,,,,G19
+"36",頂溪站,25.01421,121.51536,O04,Dingxi,"0",,,,,F33,新北市,永和區,Yonghe District,F,Yonghe District
