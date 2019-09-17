@@ -5,7 +5,7 @@ The source data in this project is from MRT hourly data as explained at [_MRT_Cl
 
 You can also read the related article on my Medium:
 </br>
-[Part 1 Explain how the city is divied](https://medium.com/@shihwenwutw/%E7%94%A8%E6%8D%B7%E9%81%8B%E8%B3%87%E6%96%99%E8%A7%80%E5%AF%9F%E4%B9%98%E5%AE%A2%E7%9A%84%E7%A7%BB%E5%8B%95%E8%BB%8C%E8%B7%A1-%E4%B8%8A-579901ca828a)
+[Part 1 Explain how MRT stations are assigned to different area](https://medium.com/@shihwenwutw/%E7%94%A8%E6%8D%B7%E9%81%8B%E8%B3%87%E6%96%99%E8%A7%80%E5%AF%9F%E4%B9%98%E5%AE%A2%E7%9A%84%E7%A7%BB%E5%8B%95%E8%BB%8C%E8%B7%A1-%E4%B8%8A-579901ca828a)
 </br>
 [Part 2 Visualization and analysis](https://medium.com/@shihwenwutw/%E7%94%A8%E6%8D%B7%E9%81%8B%E8%B3%87%E6%96%99%E8%A7%80%E5%AF%9F%E4%B9%98%E5%AE%A2%E7%9A%84%E7%A7%BB%E5%8B%95%E8%BB%8C%E8%B7%A1-%E4%B8%8B-22d70ea76ddb)
 
